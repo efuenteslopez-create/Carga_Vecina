@@ -1,0 +1,5 @@
+{
+  "name": "CargaVecina MVP",
+  "description": "A P2P platform connecting electric vehicle charger owners with drivers who need to recharge. This MVP showcases the core user interface for both drivers and hosts, built on a robust architecture for the Chilean market.",
+  "requestFramePermissions": []
+}
